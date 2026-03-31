@@ -4,7 +4,7 @@ A quantitative finance platform for simulating asset prices, backtesting trading
 
 The project started as a Monte Carlo simulation engine for coffee futures and evolved into a full portfolio analysis toolkit covering single-asset simulation, position tracking, strategy backtesting, and multi-asset systematic portfolio management.
 
-![Dashboard Screenshot](docs/screenshots/simulation_tab.png)
+![Dashboard Screenshot](<img width="1909" height="831" alt="image" src="https://github.com/user-attachments/assets/f451f23a-9205-445b-967c-d63c5980b44c" />)
 
 ## What It Does
 
